@@ -1,2 +1,3 @@
-# portfolio-fahmi
-Portfolio Fahmi Fadillah
+# Portfolio-fahmi
+Frontend Developer | Full Stack Developer | React Backend with AI Cohort at @Asah Led By Dicoding
+LinkedIn: https://www.linkedin.com/in/mochamad-fahmi-fadillah-83b524334
